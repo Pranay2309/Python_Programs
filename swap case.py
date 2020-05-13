@@ -1,0 +1,5 @@
+s1=input("enter student 1 name\n")
+s2=input("enter student 2 name\n")
+l1=s1.swapcase()
+l2=s2.swapcase()
+print(l1,l2)
